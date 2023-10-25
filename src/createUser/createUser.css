@@ -7,6 +7,7 @@ body {
 
 #inputForPassword,
 #inputForUsername,
+#inputForEmail,
 #submitBtn {
   background-color: rgb(36, 36, 36);
   border: 1px solid white;
