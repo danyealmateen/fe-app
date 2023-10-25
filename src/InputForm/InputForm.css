@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#inputForPassword,
+#inputForUsername,
+#submitBtn {
+  background-color: rgb(36, 36, 36);
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  margin-top: 8px;
+}
